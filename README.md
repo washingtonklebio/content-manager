@@ -12,3 +12,7 @@
 -- Start mongodb
 
 -- sudo mongod
+
+- Migrates
+
+-- knex migrate:latest
